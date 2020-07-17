@@ -12,9 +12,9 @@
 
 <p align="center"> 📝 <strong> Resume</strong>: <a href="https://akshansh2000.github.io/resume.pdf"> https://akshansh2000.github.io/resume.pdf </a></p>
 
-<p style="text-align: center; font-size: 20px"> Contact me at: </p>
+<p style="text-align:center; font-size:20px"> Contact me at: </p>
 
-<p style="text-align: center;">
+<p align="center">
   <a href="https://linkedin.com/in/akshansh2000">
     <img src="https://img.shields.io/badge/-akshansh2000-0a80a1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshansh2000/)](https://www.linkedin.com/in/akshansh2000/" alt="LinkedIn Badge">
   </a>
@@ -26,9 +26,9 @@
   </a>
 </p>
 
-<p style="text-align: center; font-size: 20px"> Some of my recent articles: </p>
+<p style="text-align:center; font-size:20px"> Some of my recent articles: </p>
 
-<p style="text-align: center;">
+<p align="center">
   <a href="https://medium.com/@akshansh2000">
     <img src="https://img.shields.io/badge/-@akshansh2000-149955?style=flat-square&labelColor=149955&logo=Medium&link=https://medium.com/@akshansh2000/" alt="Medium Badge">
   </a>
