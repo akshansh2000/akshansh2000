@@ -1,4 +1,4 @@
-<p style="font-size:30px; text-align:center"> <strong> Hello there 👋 </strong></p>
+<p style="font-size:30px" align="center"> <strong> Hello there 👋 </strong></p>
 
 <p align="center"> I am a sophomore at <a href="https://du.ac.in"> University of Delhi</a>, India, majoring in Information Technology. </p>
 
@@ -12,7 +12,7 @@
 
 <p align="center"> 📝 <strong> Resume</strong>: <a href="https://akshansh2000.github.io/resume.pdf"> https://akshansh2000.github.io/resume.pdf </a></p>
 
-<p style="text-align:center; font-size:20px"> Contact me at: </p>
+<p align="center" style="font-size:20px"> Contact me at: </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/akshansh2000">
@@ -26,7 +26,7 @@
   </a>
 </p>
 
-<p style="text-align:center; font-size:20px"> Some of my recent articles: </p>
+<p align="center" style="font-size:20px"> Some of my recent articles: </p>
 
 <p align="center">
   <a href="https://medium.com/@akshansh2000">
