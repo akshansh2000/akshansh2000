@@ -1,7 +1,7 @@
 # **Hello there** 👋
 
 <p>
-  I am a sophomore at <a href="https://du.ac.in"> University of Delhi</a>, India, majoring in Information Technology.
+  I am a sophomore at the <a href="https://du.ac.in"> University of Delhi</a>, India, majoring in Information Technology.
   <br>
   <br>
   🏫 <strong> SWE Intern </strong> at <a href="https://cargosnap.com"> CargoSnap </a>
