@@ -1,6 +1,6 @@
-# <p align="center"> <strong> Hello there 👋 </strong></p>
+# **Hello there** 👋
 
-<p align="center">
+<p>
   I am a sophomore at <a href="https://du.ac.in"> University of Delhi</a>, India, majoring in Information Technology.
   <br>
   <br>
