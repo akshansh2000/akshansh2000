@@ -1,16 +1,16 @@
 <p style="font-size:30px; text-align:center"> <strong> Hello there 👋 </strong></p>
 
-<p style="text-align:center"> I am a sophomore at <a href="https://du.ac.in"> University of Delhi</a>, India, majoring in Information Technology. </p>
+<p align="center"> I am a sophomore at <a href="https://du.ac.in"> University of Delhi</a>, India, majoring in Information Technology. </p>
 
-<p style="text-align:center"> 🏫 <strong> SWE Intern </strong> at <a href="https://cargosnap.com"> CargoSnap </a></p>
+<p align="center"> 🏫 <strong> SWE Intern </strong> at <a href="https://cargosnap.com"> CargoSnap </a></p>
 
-<p style="text-align:center"> ✨ <strong> Languages</strong>: C/C++, Python, Bash, Dart </p>
+<p align="center"> ✨ <strong> Languages</strong>: C/C++, Python, Bash, Dart </p>
 
-<p style="text-align:center"> 📓 <strong> Currently Exploring</strong>: Linux Kernel Development </p>
+<p align="center"> 📓 <strong> Currently Exploring</strong>: Linux Kernel Development </p>
 
-<p style="text-align:center"> 💼 <strong> Portfolio</strong>: <a href="https://akshansh2000.github.io"> https://akshansh2000.github.io/ </a></p>
+<p align="center"> 💼 <strong> Portfolio</strong>: <a href="https://akshansh2000.github.io"> https://akshansh2000.github.io/ </a></p>
 
-<p style="text-align:center"> 📝 <strong> Resume</strong>: <a href="https://akshansh2000.github.io/resume.pdf"> https://akshansh2000.github.io/resume.pdf </a></p>
+<p align="center"> 📝 <strong> Resume</strong>: <a href="https://akshansh2000.github.io/resume.pdf"> https://akshansh2000.github.io/resume.pdf </a></p>
 
 <p style="text-align: center; font-size: 20px"> Contact me at: </p>
 
