@@ -1,4 +1,4 @@
-<p style="font-size:30px" align="center"> <strong> Hello there 👋 </strong></p>
+# <p align="center"> <strong> Hello there 👋 </strong></p>
 
 <p align="center"> I am a sophomore at <a href="https://du.ac.in"> University of Delhi</a>, India, majoring in Information Technology. </p>
 
