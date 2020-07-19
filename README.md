@@ -1,6 +1,6 @@
 # **Hello there** 👋
 
-I am a sophomore at the <a href="https://du.ac.in"> University of Delhi</a>, India, majoring in Information Technology.
+I am a sophomore at the [University of Delhi](https://du.ac.in"), India, majoring in Information Technology.
 
 🏫 SWE Intern at [CargoSnap](https://cargosnap.com)
 
