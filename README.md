@@ -2,7 +2,7 @@
 
 I am a junior at the [University of Delhi](https://du.ac.in"), India, majoring in Information Technology.
 
-🏫 SWE Intern at [CargoSnap](https://cargosnap.com)
+🏫 Former SWE Intern at [CargoSnap](https://cargosnap.com)
 
 ✨ **Languages**: C/C++, Python, Bash, Dart
 
