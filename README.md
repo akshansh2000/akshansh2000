@@ -1,10 +1,10 @@
 # **Hello there** 👋
 
-I am a junior at the [University of Delhi](https://du.ac.in"), India, majoring in Information Technology.
+I am a junior at the [University of Delhi](https://du.ac.in), India, majoring in Information Technology.
 
-🏫 Former SWE Intern at [CargoSnap](https://cargosnap.com)
+🏫 Incoming Summer Intern at [Goldman Sachs](https://www.goldmansachs.com/)
 
-✨ **Languages**: C/C++, Python, Bash, Dart
+✨ **Languages**: C/C++, Bash, Python, Dart
 
 📓 **Currently Exploring**: Linux Kernel Development
 
