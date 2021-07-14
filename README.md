@@ -2,11 +2,11 @@
 
 I am a junior at the [University of Delhi](https://du.ac.in), India, majoring in Information Technology.
 
-🏫 Incoming Summer Intern at [Goldman Sachs](https://www.goldmansachs.com/)
+🏫 Summer Analyst at [Goldman Sachs](https://www.goldmansachs.com/)
 
 ✨ **Languages**: C/C++, Bash, Python, Dart
 
-📓 **Currently Exploring**: Linux Kernel Development
+📓 **Currently Exploring**: CyberSecurity
 
 💼 **Portfolio**: [https://akshansh2000.github.io](https://akshansh2000.github.io)
 
