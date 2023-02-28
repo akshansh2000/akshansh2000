@@ -1,16 +1,14 @@
 # **Hello there** 👋
 
-I am a junior at the [University of Delhi](https://du.ac.in), India, majoring in Information Technology.
-
 🏫 Summer Analyst at [Goldman Sachs](https://www.goldmansachs.com/)
+
+🏢 [University of Delhi](https://du.ac.in) (Batch of '22), with a major in Information Technology.
 
 ✨ **Languages**: C/C++, Bash, Python, Dart
 
 📓 **Currently Exploring**: CyberSecurity
 
-💼 **Portfolio**: [https://akshansh2000.github.io](https://akshansh2000.github.io)
-
-📝 **Resume**: [https://akshansh2000.github.io/resume.pdf](https://akshansh2000.github.io/resume.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio--orange)](https://akshansh2000.github.io) [![Resume](https://img.shields.io/badge/Resume--red)](https://akshansh2000.github.io/resume.pdf)
 
 ### Contact me at:
 
