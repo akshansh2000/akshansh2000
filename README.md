@@ -1,10 +1,10 @@
 # **Hello there** 👋
 
-🏫 Summer Analyst at [Goldman Sachs](https://www.goldmansachs.com/)
+🏫 Analyst at [Goldman Sachs](https://www.goldmansachs.com/)
 
 🏢 [University of Delhi](https://du.ac.in) (Batch of '22), with a major in Information Technology.
 
-✨ **Languages**: C/C++, Bash, Python, Dart
+✨ **Languages**: Java, Python, C/C++
 
 📓 **Currently Exploring**: CyberSecurity
 
